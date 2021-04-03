@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+/ flyBTC.space (flyBTC)
+// flyBTC defistify dogecoin, it’s doge but DeFi
+// flyBTC is a deflationary farming meme powered currency
 <!--
 **flyBTC/flyBTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
