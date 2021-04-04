@@ -1,6 +1,5 @@
 // flyBTC.space (flyBTC)
-// flyBTC defistify dogecoin, it’s doge but DeFi
-// flyBTC is a deflationary farming meme powered currency
+// flyBTC is NFT's Mining
 
 
 // SPDX-License-Identifier: Unlicensed
