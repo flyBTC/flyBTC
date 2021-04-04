@@ -1,7 +1,8 @@
 ### Hi there 👋
 Buy and hold flyBTC today!
 - Website: https://flyBTC.space
-- Telegram: https://t.me/flyBTCchanel
+- Telegram: https://t.me/flyBTC1
+- Twitter: https://twitter.com/flybtcofficial
 <!--
 **flyBTC/flyBTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
